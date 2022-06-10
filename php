@@ -4,7 +4,7 @@ belajar functions php
 blajar menyambungkan localhost dengan php
 mempelajari mysql dan kegunaannya
 belajar membuat crud 
- create-read-update
+ create-read-update-delete
 mengenal apa itu hosting
 mempelejari github
 mempelajari freamworks php
