@@ -1,6 +1,6 @@
 mengetahui kegunaan php
 belajar syntax php
-  variable-string
+  variable-string-perulangan
 belajar functions php
 blajar menyambungkan localhost dengan php
 mempelajari mysql dan kegunaannya
